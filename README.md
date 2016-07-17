@@ -1,4 +1,3 @@
-
 # Provata Health Policies
 
 These policies are available on our policy website: https://policy.provatahealth.io
