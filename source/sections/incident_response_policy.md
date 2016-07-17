@@ -116,7 +116,7 @@ The Follow-up Phase represents the review of the security incident to look for �
 
 ### Periodic Evaluation
 
-It is important to note that the processes surrounding security incident response should be periodically reviewed and evaluated for effectiveness. This also involves appropriate training of resources expected to respond to security incidents, as well as the training of the general population regarding the Provata Health’s expectation for them, relative to security responsibilities. The incident response plan is tested annually.
+It is important to note that the processes surrounding security incident response should be periodically reviewed and evaluated for effectiveness. This also involves appropriate training of resources expected to respond to security incidents, as well as the training of the general population regarding the Provata Health’s expectation for them, relative to security responsibilities. 
 
 ## Security Incident Response Team (SIRT)
 
@@ -125,6 +125,6 @@ Individuals needed and responsible to respond to a security incident make up a S
 * Security Officer
 * Privacy Officer
 * Senior Management
-* VP of Engineering
+* Development Operations Team Members
 
 
