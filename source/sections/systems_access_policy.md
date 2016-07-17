@@ -34,8 +34,8 @@ Access to Provata Health systems and application is limited for all users, inclu
 * Requests for access to Provata Health Platform systems and applications is made formally to the VP of Engineering, Privacy Officer, or Security Officer.
 * Access is not granted until receipt, review, and approval by the Provata Health Security Officer;
 * The request for access is retained for future reference.
-* All access to Provata Health systems and services are reviewed and updated on an bi-annual basis to assure proper authorizations are in place commensurate with job functions. The form used to conduct account review is [here](https://docs.google.com/a/catalyze.io/forms/d/1oeejMta4XLiUsdH2gTKQ-glec6DBiwPJoY9F60HmPWk/viewform).
-* Any Provata Health workforce member can request change of access using this [form](https://docs.google.com/a/catalyze.io/forms/d/1ySICzCyEEdNqxHHErjlJqREBijwxs9z72L-rWXrxkm0/viewform).
+* All access to Provata Health systems and services are reviewed and updated on an bi-annual basis to assure proper authorizations are in place commensurate with job functions. The form used to conduct account review is [here](https://docs.google.com/a/provatahealth.com/forms/d/e/1FAIpQLSdk5a64EwfRQpuJm0koBb-PznGXIVYGkAK7nrACu7Cn1zRhCg/viewform).
+* Any Provata Health workforce member can request change of access using this [form](https://docs.google.com/a/provatahealth.com/forms/d/e/1FAIpQLSdlSCB73EYNDeDmOK7Id9r5JVrwCN13YqJcxASvIm08bq63UA/viewform).
 * Access to systems is controlled using centralized user management and authentication. All authentication requests utilize two factor authentication using mobile devices as the second factor.
 * Temporary accounts are not used unless absolutely necessary for business purposes.
 	* Accounts are reviewed every 90 days to assure temporary accounts are not left unnecessarily.
@@ -91,7 +91,7 @@ All workstations at Provata Health are company owned, and all are laptop Apple p
 * Users may not misrepresent, obscure, suppress, or replace another user’s identity in transmitted or stored messages.
 * Workstation hard drives will be encrypted using FileVault 2.0.
 * All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
-* All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Provata Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://catalyze.io/policy/) and have completed this training (https://training.catalyze.io/). Please contact us if you have problems with this - privacy@catalyze.io.*
+* All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Provata Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.provatahealth.io) and have completed this training (https://training.provatahealth.io). Please contact us if you have problems with this - privacy@provatahealth.com.*
 
 ## Wireless Access Use
 

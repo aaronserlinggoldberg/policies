@@ -90,7 +90,7 @@ We will assist you in remedying the situation.
 Sincerely,
 
 
-Travis Good, MD
-Co-founder - Provata Health, Inc
-travis@catalyze.io
-303-351-2640
+Aaron Goldberg
+Privacy Officer - Provata Health
+aaron.goldberg@provatahealth.com
+301-452-7389

@@ -32,7 +32,7 @@ The Provata Health incident response process follows the process recommended by 
 	1. Direct report to management, the Security Officer, Privacy Officer, or other;
 	2. Email;
 	3. Phone call;
-	4. Online incident response form located [here](https://docs.google.com/a/catalyze.io/forms/d/1Hn4di9Jdw5JT8vISMh6tVUnh94VpeHucell7Ca4fKTo/viewform);
+	4. Online incident response form located [here](https://docs.google.com/a/provatahealth.com/forms/d/e/1FAIpQLSd4xs7_Lnrrx-U_pmpR33JKcuofzWkLjBjeLhIPp3LEUY2L-w/viewform);
 	5. Secure Chat.
 	6. Anonymously through workforce members desired channels.
 	7. The individual receiving the report facilitates completion of an [Incident Identification form](./incident.form.pdf) and notifies the Security Officer (if not already done).

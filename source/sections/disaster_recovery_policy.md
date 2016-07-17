@@ -45,11 +45,11 @@ Provata Health defined two categories of systems from a disaster recovery perspe
 
 ## Line of Succession
 
-The following order of succession to ensure that decision-making authority for the Provata Health Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) and Security Officer, Adam Leko, are responsible for ensuring the safety of personnel and the execution of procedures documented within this Provata Health Contingency Plan. If the CTO and VP of Engineering are unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO or CPO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
+The following order of succession to ensure that decision-making authority for the Provata Health Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) and Security Officer, Sean Adkinson, are responsible for ensuring the safety of personnel and the execution of procedures documented within this Provata Health Contingency Plan. If the CTO and VP of Engineering are unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO or CPO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
 
-* Adam Leko, CTO: 414-335-0253, adam@catalyze.io
-* Travis Good, CEO: 303-351-2640, travis@catalyze.io
-* Mohan Balachandran, CPO: 214-215-7998, mohan@catalyze.io
+* Sean Adkinson, CTO: 503-866-0852, sean.adkinson@provatahealth.com
+* Alex Goldberg, CEO: 503-577-7571, alex.goldberg@provatahealth.com
+* Aaron Goldberg, Head of Business Strategy & Counsel: 301-452-7389, aaron.goldberg@provatahealth.com
 
 ## Responsibilities
 
