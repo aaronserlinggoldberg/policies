@@ -26,14 +26,14 @@ Of note, Provata Health does not have ready access to ePHI, it provides cloud-ba
 4. Maintenance is controlled and conducted by authorized personnel in accordance with supplier-recommended intervals, insurance policies and the organizations maintenance program.
 5. Electronic and physical media containing covered information is securely destroyed (or the information securely removed) prior to disposal.
 6. The organization securely disposes media with sensitive information.
-7. Physical access is restricted using smart locks that track all access.
-	* Restricted areas and facilities are locked and when unattended (where feasible).
+7. Physical access to Provata Health facilities outside of regular working hours is restricted using smart locks that track all access.
+	* Restricted areas and facilities are locked  when unattended (where feasible).
 	* Only authorized workforce members receive access to restricted areas (as determined by the Security Officer).
 	* Access and keys are revoked upon termination of workforce members.
 	* Workforce members must report a lost and/or stolen key(s) to the Security Officer.
 	* The Security Officer facilitates the changing of the lock(s) within 7 days of a key being reported lost/stolen
 8. Enforcement of Facility Access Policies
-	* Report violations of this policy to the restricted area’s department team leader, supervisor, manager, or director, or the Privacy Officer.
+	* Report violations of this policy to your supervisor, manager, or the Privacy Officer.
 	* Workforce members in violation of this policy are subject to disciplinary action, up to and including termination.
 	* Visitors in violation of this policy are subject to loss of vendor privileges and/or termination of services from Provata Health. 
 9. Workstation Security
